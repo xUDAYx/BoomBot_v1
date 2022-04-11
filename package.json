@@ -1,8 +1,8 @@
 {
-  "name": "music-bot",
+  "name": "lol-bot",
   "version": "2.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ZerioDev/Music-bot.git",
+  "repository": "nope",
   "author": "ZerioDev",
   "license": "MIT",
   "dependencies": {
